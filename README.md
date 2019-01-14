@@ -1,3 +1,7 @@
+Created by moi (mdr)
+Avec l'aide de Marie-Aurore Ducros , Jordan Laforet , Cristiano Ferreira et Etienne Chevalier
+Fait avec amour (gloire et beauté)
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
